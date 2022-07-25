@@ -1,0 +1,3 @@
+# This file only exists as a test case for simspace-config.
+foo-bar:  "_env:FOO_BAR:1"
+baz-quux: "_env:BAZ_QUUX:two"
